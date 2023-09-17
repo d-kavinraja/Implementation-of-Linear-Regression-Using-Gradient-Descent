@@ -86,31 +86,29 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-Profit prediction:
+### Profit prediction:
 
-![Screenshot 2023-09-14 083451](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/ee8f17a5-0da1-4cac-a04e-7cc713fa5bc0)
+![output](./images/profit%20predict.png)
 
-Function output:
+### Function output:
 
-![Screenshot 2023-09-14 083501](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/e782a2c3-7adf-48fc-b15d-8a5a27773e82)
+![output](./images/function.png)
 
-Gradient descent:
+### Gradient descent:
+![output](./images/gradient%20.png)
+### Cost function using Gradient Descent:
 
-![Screenshot 2023-09-14 083509](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/5abb3f34-b344-49d2-aa64-fcebca3f3acc)
+![output](./images/cost.png)
 
-Cost function using Gradient Descent:
-
-![Screenshot 2023-09-14 083517](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/213be6b8-a5d8-433f-bcd0-75f73edbff98)
-
-Linear Regression using Profit Prediction:
+### Linear Regression using Profit Prediction:
 
 ![Screenshot 2023-09-14 083527](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/d41d1d08-52d9-4a93-88cf-11ca7fdb544b)
 
-Profit Prediction for a population of 35000:
+### Profit Prediction for a population of 35000:
 
 ![Screenshot 2023-09-14 083537](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/43f982a1-bbcc-4910-9ef0-794ff2421d33)
 
-Profit Prediction for a population of 70000 :
+### Profit Prediction for a population of 70000 :
 
 ![Screenshot 2023-09-14 083544](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/f1cf50b4-0a6e-4d34-bb8f-683c9b6923ab)
 
